@@ -1,6 +1,6 @@
 # x-men-dev-em-dobro
 <p>
-    <img src="https://img.shields.io/github/languages/count/MatheusPrudente/x-men-dev-em-dobro"/>
+    <img src="https://img.shields.io/badge/Linguagem-3-blue"/>
     <img src="https://img.shields.io/github/repo-size/MatheusPrudente/x-men-dev-em-dobro"/>
     <img src="https://img.shields.io/github/last-commit/MatheusPrudente/x-men-dev-em-dobro"/>
     <img src="https://img.shields.io/github/issues/MatheusPrudente/x-men-dev-em-dobro"/>
